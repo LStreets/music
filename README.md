@@ -1,5 +1,11 @@
 # music
 springboot+vue音乐网站
+个人学习前后端分离项目
+文件说明：
+ - 前端
+前台  music-client
+后台  music-manage
+ - 后端 music-server
 # 系统环境配置
  - 系统开发平台：JDK1.8+Window 10+Maven3.6.1
  - 开发语言：JavaEE+vue2.x
